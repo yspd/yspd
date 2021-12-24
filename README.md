@@ -1,16 +1,14 @@
-### Hi there 👋
+### Iai, Meu nome é Bruno aka spyd 👋
+<img style="margin: 0 auto" src="http://www.reactiongifs.com/wp-content/uploads/2012/05/hello.gif" height="200">
 
-<!--
-**yspd/yspd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 👷 Trabalhando em projetos pessoais
+- 👨‍🏫 Atualmente aprendendo um pouco de tudo (🤣)
+- 🤓 Sou novo aqui
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Status
+
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=yspd&show_icons=true)
+
+
